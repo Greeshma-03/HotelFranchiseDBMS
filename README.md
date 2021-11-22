@@ -38,7 +38,7 @@ They will further display new options for the user so as to make our database in
 For every invalid input(No data or out of constraints data) it will show an ERROR or WARNING which is dealt by the error handling functions used in every case.
 
 ******************************************************************************************************************
-> There is a vedio uploaded showing how to run and use our databasae. Do watch it do get a better idea :)
-### Try running our DATABASE and hope you enjoy playing with it. 
+> There is a video uploaded showing how to run and use our databasae. Do watch it do get a better idea :)
+### Try running our DATABASE and hope you enjoyed it!! 
 
 ###                                             Thank You :)
